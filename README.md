@@ -16,7 +16,7 @@ To train the hand segmentation network, go to `$root/segmentation_training`.
 
         python demo.py
 
-    ![Alt text](https://github.com/minghuam/HODM/segmentation_training/demo_data/demo.png)
+    ![Alt text](https://github.com/minghuam/HODM/blob/master/segmentation_training/demo_data/demo.png)
 
 3. Run the following command to resize raw training data and generate training data source text file: `training_data.txt`.
         
@@ -35,7 +35,7 @@ To train the hand segmentation network, go to `$root/segmentation_training`.
         
         python demo.py
 
-    ![Alt text](https://github.com/minghuam/HODM/detection_training/demo_data/demo.png)
+    ![Alt text](https://github.com/minghuam/HODM/blob/master/detection_training/demo_data/demo.png)
         
 3. Run the following command to resize raw training data and generate training data source text file: `training_data.txt`.
         
