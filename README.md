@@ -1,5 +1,6 @@
 ### Resource data
 Download resource data(models and demo data) from google drive.
+
         sh download_resources.sh
 
 ### Data preparation
