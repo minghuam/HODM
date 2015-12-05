@@ -1,4 +1,4 @@
-from config import caffe_root, hand_model
+from config import caffe_root
 import sys,os
 sys.path.insert(0, os.path.join(caffe_root, 'python'))
 import caffe

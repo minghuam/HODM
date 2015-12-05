@@ -1,3 +1,7 @@
+### Resource data
+Download resource data(models and demo data) from google drive.
+        sh download_resources.sh
+
 ### Data preparation
 To train the CNN models, you need three kinds of data: raw images, hand masks and object/hand heatmaps. See examples in `$root/raw_data`.
 
