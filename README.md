@@ -15,7 +15,7 @@ To train the CNN models, you need three kinds of data: raw images, hand masks an
 ### Hand segmentation training
 To train the hand segmentation network, go to `$root/segmentation_training`.
 
-1. Get Caffe from [here](https://github.com/minghuam/caffe-dev) and modify the `caffe_root` in `config.py`.
+1. Get Caffe from [here](https://github.com/minghuam/caffe-fcn) and modify the `caffe_root` in `config.py`.
 
 2. If the Caffe is built successfully and the Caffe root path is correct, you can run the demo and see results like the following:
 
